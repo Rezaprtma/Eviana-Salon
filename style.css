@@ -3,6 +3,7 @@
   }
 
   .container {
+    padding-top: 7px;
     width: 80%;
     margin: auto;
     border: 2px black;
@@ -328,4 +329,14 @@
     background-repeat: none;
     background-size: cover;
   }
+}
+
+
+footer{
+  bottom: 0;
+  text-align: center;
+}
+
+footer a:hover {
+  color: blue;
 }
